@@ -1,0 +1,10 @@
+newsapi-python
+numpy
+textblob
+nltk
+flair
+transformers
+tensorflow
+torchtext
+pandas
+spacy
